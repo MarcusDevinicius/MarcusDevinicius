@@ -6,6 +6,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://wa.me/5581998507164?text=Ol%C3%A1,%20Marcus)
 
 ![Marcus GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcusDevinicius&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcusdevinicius&layout=compact)
+
 
 ## Tecnologias que eu uso no meu dia a dia
 
